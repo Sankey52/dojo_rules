@@ -5,4 +5,6 @@ Functions with side effects
 Unformatted code
 Repeated code blocks
 Bad variable names
-Too many Comments not useful.
+Too long comments.
+
+
